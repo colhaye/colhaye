@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAMAL MOHAMED</h1>
 - 👋 Hi, I’m @colhaye<br>
-- 👀 I’m interested in ...<br>
+- 👀 I’m interested in ...coding <br>
 - 🌱 I’m currently learning ...<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me ...
