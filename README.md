@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A passionate frontend developer from Somaliland</h3>
 
-<img align="right" alt="Coding" width="400" src="https://developertanjirul.com/wp-content/uploads/2022/08/intro-section.gif">
+
+<img align="left" alt="Coding" width="400" src="https://developertanjirul.com/wp-content/uploads/2022/08/intro-section.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colhaye&label=Profile%20views&color=0e75b6&style=flat" alt="colhaye" /> </p>
 
